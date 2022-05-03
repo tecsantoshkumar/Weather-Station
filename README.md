@@ -27,9 +27,6 @@ If the user wants to see the past search city weather condition again, just clic
 
 ![](image/Capture.PNG)
 
-* Credits
-
-  .https://openweathermap.org/api
 
 
 

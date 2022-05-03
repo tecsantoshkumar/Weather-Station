@@ -25,7 +25,7 @@ If the user wants to see the past search city weather condition again, just clic
 
 * Here you can run the application using the following URL:  https://tecsantoshkumar.github.io/Weather-Station/
 
-![](image/screenshoot.PNG)
+![](image/Capture.PNG)
 
 * Credits
 
